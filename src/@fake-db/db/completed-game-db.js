@@ -38,7 +38,7 @@ const completedGamesDB = {
 			puzzle: '7',
 			date: '2020/10/09',
 			group: 'ITS Group',
-			game: 'Lab Escape',
+			game: 'Cas Escape',
 			stage: '3'
 		},
 		{
