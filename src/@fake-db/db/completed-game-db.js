@@ -50,7 +50,7 @@ const completedGamesDB = {
 			voiceChat: '655',
 			puzzle: '7',
 			date: '2020/10/16',
-			group: 'School Management Group',
+			group: 'School Group',
 			game: 'Castle Escape',
 			stage: '2'
 		},
