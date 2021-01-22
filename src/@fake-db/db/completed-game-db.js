@@ -60,12 +60,12 @@ const completedGamesDB = {
 			lastName: 'Winters',
 			avatar: 'assets/images/avatars/Boyle.jpg',
 			textChat: '3',
-			voiceChat: '4',
+			voiceChat: '3',
 			puzzle: '5',
 			date: '2020/10/13',
 			group: 'Upwork Group',
 			game: 'Lab Escape',
-			stage: '2'
+			stage: '1'
 		},
 		{
 			id: '5725a68031fdbb1db2c1af47',
