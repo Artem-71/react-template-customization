@@ -74,7 +74,7 @@ const completedGamesDB = {
 			avatar: 'assets/images/avatars/Christy.jpg',
 			textChat: '7',
 			voiceChat: '54',
-			puzzle: '77',
+			puzzle: '78',
 			date: '2020/10/19',
 			group: 'Hospital Group',
 			game: 'Lab Escape',
