@@ -63,7 +63,7 @@ const completedGamesDB = {
 			voiceChat: '3',
 			puzzle: '5',
 			date: '2020/10/13',
-			group: 'Upwork Ninja Group',
+			group: 'Upwork Group',
 			game: 'Lab Escape',
 			stage: '1'
 		},
