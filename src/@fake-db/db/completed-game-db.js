@@ -104,7 +104,7 @@ const completedGamesDB = {
 			date: '2020/11/13',
 			group: 'Booking Home Group',
 			game: 'Castle Escape',
-			stage: '3'
+			stage: '2'
 		},
 		{
 			id: '5725a680dcb077889f758961',
