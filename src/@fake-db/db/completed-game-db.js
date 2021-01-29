@@ -121,7 +121,7 @@ const completedGamesDB = {
 		},
 		{
 			id: '5725a6806acf030f9341e925',
-			name: 'Helen Mandela',
+			name: 'Kelen Mandela',
 			lastName: 'Sheridan',
 			avatar: 'assets/images/avatars/Helen.jpg',
 			textChat: '1',
