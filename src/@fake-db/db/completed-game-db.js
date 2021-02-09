@@ -182,7 +182,7 @@ const completedGamesDB = {
 			date: '2020/11/28',
 			group: 'Hospital Group',
 			game: 'Castle Escape',
-			stage: '2'
+			stage: '3'
 		},
 		{
 			id: '5725a6808a178bfd034d6ecf',
