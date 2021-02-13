@@ -178,7 +178,7 @@ const completedGamesDB = {
 			avatar: 'assets/images/avatars/Lily.jpg',
 			textChat: '10',
 			voiceChat: '200',
-			puzzle: '14',
+			puzzle: '11',
 			date: '2020/11/28',
 			group: 'Hospital Group',
 			game: 'Castle Escape',
