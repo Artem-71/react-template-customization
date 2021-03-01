@@ -147,7 +147,7 @@ const completedGamesDB = {
 		},
 		{
 			id: '5725a680b8d240c011dd224b',
-			name: 'Jose Fanan',
+			name: 'Jose Fan',
 			lastName: 'Lakefield',
 			avatar: 'assets/images/avatars/Josefina.jpg',
 			textChat: '10',
