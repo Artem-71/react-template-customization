@@ -160,7 +160,7 @@ const completedGamesDB = {
 		},
 		{
 			id: '5725a68034cb3968e1f79eac',
-			name: 'Katina',
+			name: 'Tatiana',
 			lastName: 'Bletchley',
 			avatar: 'assets/images/avatars/Katina.jpg',
 			textChat: '10',
