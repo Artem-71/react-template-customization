@@ -156,7 +156,7 @@ const completedGamesDB = {
 			date: '2020/11/23',
 			group: 'Apartment Group',
 			game: 'Lab Escape',
-			stage: '2'
+			stage: '3'
 		},
 		{
 			id: '5725a68034cb3968e1f79eac',
