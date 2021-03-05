@@ -26,7 +26,7 @@ const faqDB = [
 	},
 	{
 		id: '5',
-		question: 'Will other people be in the room with us?',
+		question: 'Will other people be in this room with us?',
 		answer:
 			'No. These virtual rooms are private to your team, and only visible to people who are invited to play in this session.'
 	},
