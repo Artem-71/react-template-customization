@@ -13,7 +13,7 @@ const calendarDB = {
 			title: 'All Day Event very long title',
 			allDay: true,
 			start: setDate(2020, 3, 0),
-			end: setDate(2020, 3, 1)
+			end: setDate(2020, 3, 2)
 		},
 		{
 			id: 1,
