@@ -32,7 +32,7 @@ const faqDB = [
 	},
 	{
 		id: '6',
-		question: 'What equipment do I need to play?',
+		question: 'What equipment do you need to play?',
 		answer: 'This is a computer game played online. Therefore you need to the following equipment.1- A desktop or a laptop computer. 2- A decent Internet connection (at least 10 mbps download speed). 3- A web browser (chrome or Firefox) 4- A keyboard (Note: wireless Keyboard need to be fully charges or have enough battery power). 5- A computer mouse (Note: wireless mouse need to be fully charges or have enough battery power). 6- A working headset with a microphone so you can talk and hear your team speaking (Note: Headset need to be fully charges or have enough battery power)'
 	},
 	{
