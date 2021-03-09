@@ -173,7 +173,7 @@ const completedGamesDB = {
 		},
 		{
 			id: '5725a6801146cce777df2a08',
-			name: 'Vitalii',
+			name: 'Vitaly',
 			lastName: 'Peasegood',
 			avatar: 'assets/images/avatars/Lily.jpg',
 			textChat: '10',
