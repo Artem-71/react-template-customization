@@ -6,7 +6,7 @@ const contactsDB = {
 	contacts: [
 		{
 			id: '5725a680b3249760ea21de52',
-			name: 'Abott',
+			name: 'Albott',
 			lastName: 'Keitch',
 			avatar: 'assets/images/avatars/Abbott.jpg',
 			nickname: 'Royalguard',
