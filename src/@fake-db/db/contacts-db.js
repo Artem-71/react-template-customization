@@ -36,7 +36,7 @@ const contactsDB = {
 			lastName: 'Bradbury',
 			avatar: 'assets/images/avatars/Barrera.jpg',
 			nickname: 'Jackal',
-			company: 'Unizim',
+			company: 'Unizima',
 			email: 'barrera@withinpixels.com',
 			registeredUser: 'No',
 			address: '183 River Street Passaic, NJ 07055',
