@@ -32,7 +32,7 @@ const contactsDB = {
 		},
 		{
 			id: '5725a68009e20d0a9e9acf2a',
-			name: 'Bakia',
+			name: 'Bakian',
 			lastName: 'Bradbury',
 			avatar: 'assets/images/avatars/Barrera.jpg',
 			nickname: 'Jackal',
