@@ -46,7 +46,7 @@ const contactsDB = {
 		{
 			id: '5725a6809fdd915739187ed5',
 			name: 'Sven',
-			lastName: 'Strangeway',
+			lastName: 'knight',
 			avatar: 'assets/images/avatars/Blair.jpg',
 			nickname: 'Knight',
 			company: 'Conedubdax',
