@@ -71,7 +71,7 @@ const contactsDB = {
 		},
 		{
 			id: '5725a68031fdbb1db2c1af47',
-			name: 'Christy',
+			name: 'Christiana',
 			lastName: 'Camacho',
 			avatar: 'assets/images/avatars/Christy.jpg',
 			nickname: 'Mist',
