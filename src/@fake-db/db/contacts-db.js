@@ -61,7 +61,7 @@ const contactsDB = {
 			name: 'Boyli',
 			lastName: 'Winters',
 			avatar: 'assets/images/avatars/Boyle.jpg',
-			nickname: 'Jester',
+			nickname: 'Jestero',
 			company: 'Newo',
 			email: 'boyle@withinpixels.com',
 			registeredUser: 'Yes',
