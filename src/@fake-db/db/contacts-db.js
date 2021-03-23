@@ -85,7 +85,7 @@ const contactsDB = {
 		{
 			id: '5725a680bc670af746c435e2',
 			name: 'Copeland',
-			lastName: 'Redcliff',
+			lastName: 'Redcliffi',
 			avatar: 'assets/images/avatars/Copeland.jpg',
 			nickname: 'Cloudlaw',
 			company: 'Tempron',
