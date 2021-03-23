@@ -58,7 +58,7 @@ const contactsDB = {
 		},
 		{
 			id: '5725a68007920cf75051da64',
-			name: 'Boylian',
+			name: 'Boyliana',
 			lastName: 'Winters',
 			avatar: 'assets/images/avatars/Boyle.jpg',
 			nickname: 'Jestero',
