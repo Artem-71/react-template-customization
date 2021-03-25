@@ -3,7 +3,7 @@ import mock from '../mock';
 const invoicesDB = {
 	invoices: [
 		{
-			id: '5725a6802f',
+			id: '5725a6802h',
 			from: {
 				title: 'Fuse Inc.',
 				address: '2810 Country Club Road Cranford, NJ 07016',
