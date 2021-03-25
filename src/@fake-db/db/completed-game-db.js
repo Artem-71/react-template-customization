@@ -9,7 +9,7 @@ const completedGamesDB = {
 			avatar: 'assets/images/avatars/Abbott.jpg',
 			textChat: '10',
 			voiceChat: '200',
-			puzzle: '14',
+			puzzle: '12',
 			date: '2020/10/03',
 			group: 'Financial Group',
 			game: 'Lab Escape',
