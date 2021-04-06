@@ -43,7 +43,7 @@ const completedGamesDB = {
 		},
 		{
 			id: '5725a6809fdd915739187ed5',
-			name: 'Hodem',
+			name: 'Holdem',
 			lastName: 'Strangeway',
 			avatar: 'assets/images/avatars/Blair.jpg',
 			textChat: '33',
