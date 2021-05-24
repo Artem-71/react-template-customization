@@ -9,7 +9,7 @@ const postGameDB = {
 	gameList: [
         {
             id: 0,
-			groupName: 'The best Finance group',
+			groupName: 'The Finance group',
 			dateTime: setDate(2020, 3, 0, 0, 0, 0),
 			duration: 30,
 			status: 'upcoming',
