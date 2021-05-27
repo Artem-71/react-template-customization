@@ -32,7 +32,7 @@ const postGameDB = {
         },
         {
             id: 3,
-			groupName: 'Account group',
+			groupName: 'Accounting group',
 			dateTime: setDate(2020, 12, 24, 5, 0, 0),
 			duration: 30,
 			status: 'complete',
