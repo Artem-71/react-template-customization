@@ -17,7 +17,7 @@ const postGameDB = {
         },
         {
             id: 1,
-			groupName: 'Best bank group',
+			groupName: 'Bank group',
 			dateTime: setDate(2020, 12, 0, 0, 0, 0),
 			duration: 30,
 			status: 'complete',
