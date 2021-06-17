@@ -24,7 +24,7 @@ const postGameDB = {
         },
         {
             id: 2,
-			groupName: 'Finance group',
+			groupName: 'The Finance group',
 			dateTime: setDate(2020, 12, 29, 5, 0, 0),
 			duration: 30,
 			status: 'upcoming',
