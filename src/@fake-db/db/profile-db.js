@@ -2,7 +2,7 @@ import mock from '../mock';
 
 const profileDB = {
 	firstName: 'Jone',
-	lastName: 'Doe',
+	lastName: 'Dwon',
 	organizationName: 'Perfect group',
 	email: 'mail@withinpixels.com',
 	avatar: 'assets/images/avatars/Velazquez.jpg',
