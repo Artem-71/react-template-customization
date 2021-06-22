@@ -16,7 +16,7 @@ const faqDB = [
 		id: '3',
 		question: 'How long does the whole experience take?',
 		answer:
-			'Depending on the game, the number of players, and the team stage you choose to play. Typical timeline for a game is between 50 to 90 minutes.For Example: LABESCAPE with Novice Players will take around 90 minutes to complete. We had teams complete the game in 40 minutes, but these teams are advanced teams, and also played the game before, and this was their tune-up session.'
+			'Depending on a game, the number of players, and the team stage you choose to play. Typical timeline for a game is between 50 to 90 minutes.For Example: LABESCAPE with Novice Players will take around 90 minutes to complete. We had teams complete the game in 40 minutes, but these teams are advanced teams, and also played the game before, and this was their tune-up session.'
 	},
 	{
 		id: '4',
